@@ -114,6 +114,7 @@ Imutabilidade exige criação de novos objetos para atualizações, aumentando m
 
 Enums limitam flexibilidade, mas aumentam segurança de dados e consistência.
 
+
 # Exercício 5
 
 1. Papéis das classes
